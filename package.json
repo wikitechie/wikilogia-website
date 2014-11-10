@@ -1,6 +1,7 @@
 {
   "name": "wikilogiawebsite",
   "description": "Wikilogia community directory of events, activities, people and resources.",
+  "repository": "https://github.com/wikitechie/wikilogia-website",
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
