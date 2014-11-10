@@ -1,11 +1,9 @@
-wikilogia-website
-=================
+# Wikilogia Directory Website
 
-Wikilogia community directory of events, activities, people and resources.
+-> Wikilogia community directory of events, activities, people and resources.
 
 
-Contributing
-============
+## Contribute
 
 * Clone the repo via `git clone git@github.com:wikitechie/wikilogia-website.git`
 * `cd wikilogia-website`
